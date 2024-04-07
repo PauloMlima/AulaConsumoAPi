@@ -72,7 +72,8 @@ public class PrincipalComBusca {
             }
             System.out.println(titulos);
 
-            System.out.println("O programa finalizou corretamente ! ");
+            System.out.println("O programa finalizou ! ");
+
         }
 
         }
